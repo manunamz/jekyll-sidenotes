@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["manunamz@pm.me"]
 
   spec.summary       = "Extended markdown syntax for sidenotes."
-  spec.description   = "Create sidenotes, which similar to footnotes except the note appears to the right or left of the marker instead of the bottom of the page. Uses [<left] and [>right] syntax."
+  spec.description   = "Create sidenotes, like footnotes, in your jekyll blog by using [<left] and [>right] syntax."
   spec.homepage      = "https://github.com/manunamz/jekyll-sidenotes"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
   spec.licenses      = ["GPL3"]
