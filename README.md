@@ -36,11 +36,12 @@ Note:
 
 ## Influences
 
-For clean’n’simple sidenote css implementation:
-[tufte css](https://github.com/edwardtufte/tufte-css)
+[tufte css](https://github.com/edwardtufte/tufte-css): For clean’n’simple sidenote css implementation
 
-How to implement tufte css in jekyll.
-[simply jekyll](https://github.com/raghudotcc/simply-jekyll)
+[simply jekyll](https://github.com/raghudotcc/simply-jekyll): How to implement tufte css in jekyll.
 
-For sidenote implementation comparisons.
-[gwern.net](https://github.com/gwern/gwern.net)
+[gwern.net](https://github.com/gwern/gwern.net): For sidenote implementation comparisons:
+
+## Other Projects
+
+[tufte-jekyll](https://github.com/clayh53/tufte-jekyll)
